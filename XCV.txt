@@ -1,0 +1,5 @@
+Account ID	45600
+Customer ID	75826
+Customer Name	asdf
+Date of Opening	2018-07-13
+Current Amount	50000
